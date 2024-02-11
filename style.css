@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    color:darkgreen;
+}
+.questions-container{
+    background-image: linear-gradient(to left,pink,yellow);
+    text-align: center;
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:3px;
+    line-height: 1.5;
+    border: 1px solid green;
+    box-shadow: 10px;
+    
+}
+#one{
+    background-image: linear-gradient(to left,yellow,green);
+}
